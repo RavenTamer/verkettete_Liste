@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "verkettete_Liste", "verkettete_Liste\verkettete_Liste.csproj", "{FA459B55-803C-4592-AEA6-EF4CA03CD090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA459B55-803C-4592-AEA6-EF4CA03CD090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA459B55-803C-4592-AEA6-EF4CA03CD090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA459B55-803C-4592-AEA6-EF4CA03CD090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA459B55-803C-4592-AEA6-EF4CA03CD090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40A0C84F-0DF3-4F11-95A7-BA96086C4B47}
+	EndGlobalSection
+EndGlobal
